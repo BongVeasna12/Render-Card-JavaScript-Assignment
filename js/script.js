@@ -2,7 +2,7 @@
 import { cardProfile } from "../component/card.js";
 import { cardProduct } from "../component/cardProduct.js";
 import { getData } from "../store/storeAPI.js";
-import { getDataUser } from "../store/storeAPI.js";
+import { getDataUser } from "../store/storecard.js"
 // import cardProduct  from "../component/cardProduct";
 const renderArea = document.querySelector("#render-area");
 const renderProfile = document.querySelector("#profile");
