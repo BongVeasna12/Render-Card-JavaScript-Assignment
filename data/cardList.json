@@ -1,0 +1,13 @@
+
+[ 
+{
+  "name": "faker-js-playground",
+  "type": "module",
+  "scripts": {
+    "gen:users": "node generators/users.js"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+  }
+]
